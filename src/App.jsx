@@ -1,8 +1,8 @@
+import ComponentOneClass from "./ComponentOneClass"
+import ComponentTwoFun from "./ComponentTwoFun"
 
 const App = () => {
-  return (
-    <div></div>
-  );
+  return <ComponentOneClass />
 }
 
 export default App;
